@@ -5,4 +5,4 @@
 - 数据集中还包含有MP4视频，视频长度不长，大概在十几秒之内。
 # 模型输出的数据结构
 -包括 action、path、semantic、rgb、depth 等张量的形状、含义及值域
-详见仓库根目录下的 `output_x-mobility.md` 文件。
+详见仓库根目录下的 `output_x_mobility.md` 文件。
